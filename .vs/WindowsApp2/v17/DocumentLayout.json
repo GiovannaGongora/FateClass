@@ -1,0 +1,335 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\FateClassV3_v8.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF2002B-72AA-4263-86B2-4E5D07883E5D}|WindowsApp2.vbproj|C:\\FateClassV3_v8.0\\frm_redefinir.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9AF2002B-72AA-4263-86B2-4E5D07883E5D}|WindowsApp2.vbproj|solutionrelative:frm_redefinir.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF2002B-72AA-4263-86B2-4E5D07883E5D}|WindowsApp2.vbproj|C:\\FateClassV3_v8.0\\frm_redefinir.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9AF2002B-72AA-4263-86B2-4E5D07883E5D}|WindowsApp2.vbproj|solutionrelative:frm_redefinir.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF2002B-72AA-4263-86B2-4E5D07883E5D}|WindowsApp2.vbproj|C:\\FateClassV3_v8.0\\frm_painel_usu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9AF2002B-72AA-4263-86B2-4E5D07883E5D}|WindowsApp2.vbproj|solutionrelative:frm_painel_usu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF2002B-72AA-4263-86B2-4E5D07883E5D}|WindowsApp2.vbproj|C:\\FateClassV3_v8.0\\frm_painel_usu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9AF2002B-72AA-4263-86B2-4E5D07883E5D}|WindowsApp2.vbproj|solutionrelative:frm_painel_usu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF2002B-72AA-4263-86B2-4E5D07883E5D}|WindowsApp2.vbproj|C:\\FateClassV3_v8.0\\frm_painel_adm.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9AF2002B-72AA-4263-86B2-4E5D07883E5D}|WindowsApp2.vbproj|solutionrelative:frm_painel_adm.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF2002B-72AA-4263-86B2-4E5D07883E5D}|WindowsApp2.vbproj|C:\\FateClassV3_v8.0\\frm_painel_adm.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9AF2002B-72AA-4263-86B2-4E5D07883E5D}|WindowsApp2.vbproj|solutionrelative:frm_painel_adm.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF2002B-72AA-4263-86B2-4E5D07883E5D}|WindowsApp2.vbproj|C:\\FateClassV3_v8.0\\frm_minhas_reservas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9AF2002B-72AA-4263-86B2-4E5D07883E5D}|WindowsApp2.vbproj|solutionrelative:frm_minhas_reservas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF2002B-72AA-4263-86B2-4E5D07883E5D}|WindowsApp2.vbproj|C:\\FateClassV3_v8.0\\frm_minhas_reservas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9AF2002B-72AA-4263-86B2-4E5D07883E5D}|WindowsApp2.vbproj|solutionrelative:frm_minhas_reservas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF2002B-72AA-4263-86B2-4E5D07883E5D}|WindowsApp2.vbproj|C:\\FateClassV3_v8.0\\frm_login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9AF2002B-72AA-4263-86B2-4E5D07883E5D}|WindowsApp2.vbproj|solutionrelative:frm_login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF2002B-72AA-4263-86B2-4E5D07883E5D}|WindowsApp2.vbproj|C:\\FateClassV3_v8.0\\frm_login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9AF2002B-72AA-4263-86B2-4E5D07883E5D}|WindowsApp2.vbproj|solutionrelative:frm_login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF2002B-72AA-4263-86B2-4E5D07883E5D}|WindowsApp2.vbproj|C:\\FateClassV3_v8.0\\frm_filtro_reserva.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9AF2002B-72AA-4263-86B2-4E5D07883E5D}|WindowsApp2.vbproj|solutionrelative:frm_filtro_reserva.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF2002B-72AA-4263-86B2-4E5D07883E5D}|WindowsApp2.vbproj|C:\\FateClassV3_v8.0\\frm_filtro_reserva.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9AF2002B-72AA-4263-86B2-4E5D07883E5D}|WindowsApp2.vbproj|solutionrelative:frm_filtro_reserva.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF2002B-72AA-4263-86B2-4E5D07883E5D}|WindowsApp2.vbproj|C:\\FateClassV3_v8.0\\frm_cadastro_salas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9AF2002B-72AA-4263-86B2-4E5D07883E5D}|WindowsApp2.vbproj|solutionrelative:frm_cadastro_salas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF2002B-72AA-4263-86B2-4E5D07883E5D}|WindowsApp2.vbproj|C:\\FateClassV3_v8.0\\frm_cadastro_salas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9AF2002B-72AA-4263-86B2-4E5D07883E5D}|WindowsApp2.vbproj|solutionrelative:frm_cadastro_salas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF2002B-72AA-4263-86B2-4E5D07883E5D}|WindowsApp2.vbproj|C:\\FateClassV3_v8.0\\frm_cadastro_professores.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9AF2002B-72AA-4263-86B2-4E5D07883E5D}|WindowsApp2.vbproj|solutionrelative:frm_cadastro_professores.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF2002B-72AA-4263-86B2-4E5D07883E5D}|WindowsApp2.vbproj|C:\\FateClassV3_v8.0\\frm_cadastro_professores.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9AF2002B-72AA-4263-86B2-4E5D07883E5D}|WindowsApp2.vbproj|solutionrelative:frm_cadastro_professores.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\FateClassV3_v8.0\\Frm_relat.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Frm_relat.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF2002B-72AA-4263-86B2-4E5D07883E5D}|WindowsApp2.vbproj|C:\\FateClassV3_v8.0\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9AF2002B-72AA-4263-86B2-4E5D07883E5D}|WindowsApp2.vbproj|solutionrelative:module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|WindowsApp2||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frm_cadastro_salas.vb",
+              "DocumentMoniker": "C:\\FateClassV3_v8.0\\frm_cadastro_salas.vb",
+              "RelativeDocumentMoniker": "frm_cadastro_salas.vb",
+              "ToolTip": "C:\\FateClassV3_v8.0\\frm_cadastro_salas.vb",
+              "RelativeToolTip": "frm_cadastro_salas.vb",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAIwHwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-03T00:12:52.848Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Frm_relat.vb [Design]",
+              "DocumentMoniker": "C:\\FateClassV3_v8.0\\Frm_relat.vb",
+              "RelativeDocumentMoniker": "Frm_relat.vb",
+              "ToolTip": "C:\\FateClassV3_v8.0\\Frm_relat.vb [Design]",
+              "RelativeToolTip": "Frm_relat.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-21T11:59:49.194Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frm_painel_adm.vb [Design]",
+              "DocumentMoniker": "C:\\FateClassV3_v8.0\\frm_painel_adm.vb",
+              "RelativeDocumentMoniker": "frm_painel_adm.vb",
+              "ToolTip": "C:\\FateClassV3_v8.0\\frm_painel_adm.vb [Design]",
+              "RelativeToolTip": "frm_painel_adm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-10T23:42:57.7Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frm_painel_usu.vb [Design]",
+              "DocumentMoniker": "C:\\FateClassV3_v8.0\\frm_painel_usu.vb",
+              "RelativeDocumentMoniker": "frm_painel_usu.vb",
+              "ToolTip": "C:\\FateClassV3_v8.0\\frm_painel_usu.vb [Design]",
+              "RelativeToolTip": "frm_painel_usu.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-14T05:04:50.398Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frm_filtro_reserva.vb",
+              "DocumentMoniker": "C:\\FateClassV3_v8.0\\frm_filtro_reserva.vb",
+              "RelativeDocumentMoniker": "frm_filtro_reserva.vb",
+              "ToolTip": "C:\\FateClassV3_v8.0\\frm_filtro_reserva.vb",
+              "RelativeToolTip": "frm_filtro_reserva.vb",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAAPAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-10T23:48:51.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\FateClassV3_v8.0\\Module1.vb",
+              "RelativeDocumentMoniker": "Module1.vb",
+              "ToolTip": "C:\\FateClassV3_v8.0\\Module1.vb",
+              "RelativeToolTip": "Module1.vb",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAcwI4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-09T21:19:26.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frm_filtro_reserva.vb [Design]",
+              "DocumentMoniker": "C:\\FateClassV3_v8.0\\frm_filtro_reserva.vb",
+              "RelativeDocumentMoniker": "frm_filtro_reserva.vb",
+              "ToolTip": "C:\\FateClassV3_v8.0\\frm_filtro_reserva.vb [Design]",
+              "RelativeToolTip": "frm_filtro_reserva.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-10T23:48:49.188Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frm_login.vb [Design]",
+              "DocumentMoniker": "C:\\FateClassV3_v8.0\\frm_login.vb",
+              "RelativeDocumentMoniker": "frm_login.vb",
+              "ToolTip": "C:\\FateClassV3_v8.0\\frm_login.vb [Design]",
+              "RelativeToolTip": "frm_login.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-08T00:20:37.377Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frm_login.vb",
+              "DocumentMoniker": "C:\\FateClassV3_v8.0\\frm_login.vb",
+              "RelativeDocumentMoniker": "frm_login.vb",
+              "ToolTip": "C:\\FateClassV3_v8.0\\frm_login.vb",
+              "RelativeToolTip": "frm_login.vb",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAQwDoAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-12T04:11:18.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frm_minhas_reservas.vb [Design]",
+              "DocumentMoniker": "C:\\FateClassV3_v8.0\\frm_minhas_reservas.vb",
+              "RelativeDocumentMoniker": "frm_minhas_reservas.vb",
+              "ToolTip": "C:\\FateClassV3_v8.0\\frm_minhas_reservas.vb [Design]",
+              "RelativeToolTip": "frm_minhas_reservas.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-10T23:20:53.976Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frm_redefinir.vb [Design]",
+              "DocumentMoniker": "C:\\FateClassV3_v8.0\\frm_redefinir.vb",
+              "RelativeDocumentMoniker": "frm_redefinir.vb",
+              "ToolTip": "C:\\FateClassV3_v8.0\\frm_redefinir.vb [Design]",
+              "RelativeToolTip": "frm_redefinir.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-13T22:48:11.114Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frm_cadastro_salas.vb [Design]",
+              "DocumentMoniker": "C:\\FateClassV3_v8.0\\frm_cadastro_salas.vb",
+              "RelativeDocumentMoniker": "frm_cadastro_salas.vb",
+              "ToolTip": "C:\\FateClassV3_v8.0\\frm_cadastro_salas.vb [Design]",
+              "RelativeToolTip": "frm_cadastro_salas.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-09T15:06:14.324Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frm_cadastro_professores.vb [Design]",
+              "DocumentMoniker": "C:\\FateClassV3_v8.0\\frm_cadastro_professores.vb",
+              "RelativeDocumentMoniker": "frm_cadastro_professores.vb",
+              "ToolTip": "C:\\FateClassV3_v8.0\\frm_cadastro_professores.vb [Design]",
+              "RelativeToolTip": "frm_cadastro_professores.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-10T23:35:34.085Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frm_cadastro_professores.vb",
+              "DocumentMoniker": "C:\\FateClassV3_v8.0\\frm_cadastro_professores.vb",
+              "RelativeDocumentMoniker": "frm_cadastro_professores.vb",
+              "ToolTip": "C:\\FateClassV3_v8.0\\frm_cadastro_professores.vb",
+              "RelativeToolTip": "frm_cadastro_professores.vb",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAcwD4AAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-09T18:25:51.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WindowsApp2",
+              "DocumentMoniker": "C:\\FateClassV3_v8.0\\WindowsApp2.vbproj",
+              "RelativeDocumentMoniker": "WindowsApp2.vbproj",
+              "ToolTip": "C:\\FateClassV3_v8.0\\WindowsApp2.vbproj",
+              "RelativeToolTip": "WindowsApp2.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-10T23:42:38.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frm_minhas_reservas.vb",
+              "DocumentMoniker": "C:\\FateClassV3_v8.0\\frm_minhas_reservas.vb",
+              "RelativeDocumentMoniker": "frm_minhas_reservas.vb",
+              "ToolTip": "C:\\FateClassV3_v8.0\\frm_minhas_reservas.vb",
+              "RelativeToolTip": "frm_minhas_reservas.vb",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-10T23:31:49.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frm_painel_usu.vb",
+              "DocumentMoniker": "C:\\FateClassV3_v8.0\\frm_painel_usu.vb",
+              "RelativeDocumentMoniker": "frm_painel_usu.vb",
+              "ToolTip": "C:\\FateClassV3_v8.0\\frm_painel_usu.vb",
+              "RelativeToolTip": "frm_painel_usu.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-14T05:10:19.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frm_painel_adm.vb",
+              "DocumentMoniker": "C:\\FateClassV3_v8.0\\frm_painel_adm.vb",
+              "RelativeDocumentMoniker": "frm_painel_adm.vb",
+              "ToolTip": "C:\\FateClassV3_v8.0\\frm_painel_adm.vb",
+              "RelativeToolTip": "frm_painel_adm.vb",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA3wBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-10T23:42:59.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frm_redefinir.vb",
+              "DocumentMoniker": "C:\\FateClassV3_v8.0\\frm_redefinir.vb",
+              "RelativeDocumentMoniker": "frm_redefinir.vb",
+              "ToolTip": "C:\\FateClassV3_v8.0\\frm_redefinir.vb",
+              "RelativeToolTip": "frm_redefinir.vb",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwDUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-14T02:44:17.082Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+C:\Users\Gicca\Videos\WindowsApp2\bin\Debug\WindowsApp2.exe.config
+C:\Users\Gicca\Videos\WindowsApp2\bin\Debug\WindowsApp2.exe
+C:\Users\Gicca\Videos\WindowsApp2\bin\Debug\WindowsApp2.pdb
+C:\Users\Gicca\Videos\WindowsApp2\bin\Debug\WindowsApp2.xml
+C:\Users\Gicca\Videos\WindowsApp2\obj\Debug\WindowsApp2.vbproj.AssemblyReference.cache
+C:\Users\Gicca\Videos\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+C:\Users\Gicca\Videos\WindowsApp2\obj\Debug\WindowsApp2.vbproj.GenerateResource.cache
+C:\Users\Gicca\Videos\WindowsApp2\obj\Debug\WindowsApp2.vbproj.CoreCompileInputs.cache
+C:\Users\Gicca\Videos\WindowsApp2\obj\Debug\WindowsApp2.exe
+C:\Users\Gicca\Videos\WindowsApp2\obj\Debug\WindowsApp2.xml
+C:\Users\Gicca\Videos\WindowsApp2\obj\Debug\WindowsApp2.pdb
+C:\Users\Gicca\Videos\WindowsApp2\obj\Debug\WindowsApp2.frm_login.resources
+C:\Users\Gicca\Videos\WindowsApp2\obj\Debug\WindowsApp2.frm_filtro_reserva.resources
+C:\Users\Gicca\Videos\WindowsApp2\obj\Debug\WindowsApp2.frm_cadastro_professores.resources
+C:\Users\Gicca\Videos\WindowsApp2\obj\Debug\Interop.ADODB.dll
+C:\Users\Gicca\Videos\WindowsApp2\obj\Debug\WindowsApp2.vbproj.ResolveComReference.cache
+C:\Users\Gicca\Videos\WindowsApp2\obj\Debug\WindowsApp2.frm_cadastro_salas.resources
+C:\Users\Aluno\Videos\projeto usecase\WindowsApp2\bin\Debug\WindowsApp2.exe.config
+C:\Users\Aluno\Videos\projeto usecase\WindowsApp2\bin\Debug\WindowsApp2.exe
+C:\Users\Aluno\Videos\projeto usecase\WindowsApp2\bin\Debug\WindowsApp2.pdb
+C:\Users\Aluno\Videos\projeto usecase\WindowsApp2\bin\Debug\WindowsApp2.xml
+C:\Users\Aluno\Videos\projeto usecase\WindowsApp2\obj\Debug\WindowsApp2.vbproj.AssemblyReference.cache
+C:\Users\Aluno\Videos\projeto usecase\WindowsApp2\obj\Debug\WindowsApp2.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Videos\projeto usecase\WindowsApp2\obj\Debug\Interop.ADODB.dll
+C:\Users\Aluno\Videos\projeto usecase\WindowsApp2\obj\Debug\WindowsApp2.vbproj.ResolveComReference.cache
+C:\Users\Aluno\Videos\projeto usecase\WindowsApp2\obj\Debug\WindowsApp2.frm_login.resources
+C:\Users\Aluno\Videos\projeto usecase\WindowsApp2\obj\Debug\WindowsApp2.frm_filtro_reserva.resources
+C:\Users\Aluno\Videos\projeto usecase\WindowsApp2\obj\Debug\WindowsApp2.frm_cadastro_professores.resources
+C:\Users\Aluno\Videos\projeto usecase\WindowsApp2\obj\Debug\WindowsApp2.frm_cadastro_salas.resources
+C:\Users\Aluno\Videos\projeto usecase\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+C:\Users\Aluno\Videos\projeto usecase\WindowsApp2\obj\Debug\WindowsApp2.vbproj.GenerateResource.cache
+C:\Users\Aluno\Videos\projeto usecase\WindowsApp2\obj\Debug\WindowsApp2.vbproj.CoreCompileInputs.cache
+C:\Users\Aluno\Videos\projeto usecase\WindowsApp2\obj\Debug\WindowsApp2.exe
+C:\Users\Aluno\Videos\projeto usecase\WindowsApp2\obj\Debug\WindowsApp2.xml
+C:\Users\Aluno\Videos\projeto usecase\WindowsApp2\obj\Debug\WindowsApp2.pdb
+C:\Users\Aluno\Videos\projeto usecase\WindowsApp2\obj\Debug\WindowsApp2.frm_painel_adm.resources
+C:\Users\Aluno\Videos\projeto usecase\WindowsApp2\obj\Debug\WindowsApp2.LoginForm1.resources
+C:\WindowsApp2\bin\Debug\WindowsApp2.exe.config
+C:\WindowsApp2\bin\Debug\WindowsApp2.exe
+C:\WindowsApp2\bin\Debug\WindowsApp2.pdb
+C:\WindowsApp2\bin\Debug\WindowsApp2.xml
+C:\WindowsApp2\obj\Debug\WindowsApp2.vbproj.AssemblyReference.cache
+C:\WindowsApp2\obj\Debug\WindowsApp2.vbproj.SuggestedBindingRedirects.cache
+C:\WindowsApp2\obj\Debug\Interop.ADODB.dll
+C:\WindowsApp2\obj\Debug\WindowsApp2.vbproj.ResolveComReference.cache
+C:\WindowsApp2\obj\Debug\WindowsApp2.frm_login.resources
+C:\WindowsApp2\obj\Debug\WindowsApp2.frm_filtro_reserva.resources
+C:\WindowsApp2\obj\Debug\WindowsApp2.frm_painel_adm.resources
+C:\WindowsApp2\obj\Debug\WindowsApp2.frm_cadastro_professores.resources
+C:\WindowsApp2\obj\Debug\WindowsApp2.frm_cadastro_salas.resources
+C:\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+C:\WindowsApp2\obj\Debug\WindowsApp2.vbproj.GenerateResource.cache
+C:\WindowsApp2\obj\Debug\WindowsApp2.vbproj.CoreCompileInputs.cache
+C:\WindowsApp2\obj\Debug\WindowsApp2.exe
+C:\WindowsApp2\obj\Debug\WindowsApp2.xml
+C:\WindowsApp2\obj\Debug\WindowsApp2.pdb
+C:\Users\Gicca\Desktop\WindowsApp2\bin\Debug\WindowsApp2.exe.config
+C:\Users\Gicca\Desktop\WindowsApp2\bin\Debug\WindowsApp2.exe
+C:\Users\Gicca\Desktop\WindowsApp2\bin\Debug\WindowsApp2.pdb
+C:\Users\Gicca\Desktop\WindowsApp2\bin\Debug\WindowsApp2.xml
+C:\Users\Gicca\Desktop\WindowsApp2\obj\Debug\WindowsApp2.vbproj.AssemblyReference.cache
+C:\Users\Gicca\Desktop\WindowsApp2\obj\Debug\Interop.ADODB.dll
+C:\Users\Gicca\Desktop\WindowsApp2\obj\Debug\WindowsApp2.vbproj.ResolveComReference.cache
+C:\Users\Gicca\Desktop\WindowsApp2\obj\Debug\WindowsApp2.frm_login.resources
+C:\Users\Gicca\Desktop\WindowsApp2\obj\Debug\WindowsApp2.frm_filtro_reserva.resources
+C:\Users\Gicca\Desktop\WindowsApp2\obj\Debug\WindowsApp2.frm_painel_adm.resources
+C:\Users\Gicca\Desktop\WindowsApp2\obj\Debug\WindowsApp2.frm_cadastro_professores.resources
+C:\Users\Gicca\Desktop\WindowsApp2\obj\Debug\WindowsApp2.frm_cadastro_salas.resources
+C:\Users\Gicca\Desktop\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+C:\Users\Gicca\Desktop\WindowsApp2\obj\Debug\WindowsApp2.vbproj.GenerateResource.cache
+C:\Users\Gicca\Desktop\WindowsApp2\obj\Debug\WindowsApp2.vbproj.CoreCompileInputs.cache
+C:\Users\Gicca\Desktop\WindowsApp2\obj\Debug\WindowsApp2.exe
+C:\Users\Gicca\Desktop\WindowsApp2\obj\Debug\WindowsApp2.xml
+C:\Users\Gicca\Desktop\WindowsApp2\obj\Debug\WindowsApp2.pdb
+C:\FateClass\bin\Debug\WindowsApp2.exe.config
+C:\FateClass\bin\Debug\WindowsApp2.exe
+C:\FateClass\bin\Debug\WindowsApp2.pdb
+C:\FateClass\bin\Debug\WindowsApp2.xml
+C:\FateClass\obj\Debug\WindowsApp2.vbproj.AssemblyReference.cache
+C:\FateClass\obj\Debug\Interop.ADODB.dll
+C:\FateClass\obj\Debug\WindowsApp2.vbproj.ResolveComReference.cache
+C:\FateClass\obj\Debug\WindowsApp2.frm_login.resources
+C:\FateClass\obj\Debug\WindowsApp2.frm_filtro_reserva.resources
+C:\FateClass\obj\Debug\WindowsApp2.frm_painel_adm.resources
+C:\FateClass\obj\Debug\WindowsApp2.frm_cadastro_professores.resources
+C:\FateClass\obj\Debug\WindowsApp2.frm_cadastro_salas.resources
+C:\FateClass\obj\Debug\WindowsApp2.Resources.resources
+C:\FateClass\obj\Debug\WindowsApp2.vbproj.GenerateResource.cache
+C:\FateClass\obj\Debug\WindowsApp2.vbproj.CoreCompileInputs.cache
+C:\FateClass\obj\Debug\WindowsApp2.exe
+C:\FateClass\obj\Debug\WindowsApp2.xml
+C:\FateClass\obj\Debug\WindowsApp2.pdb
+C:\FateClass\obj\Debug\WindowsApp2.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Gicca\Videos\COISAS PÉN DRIVE EDIARDP\FateClass\bin\Debug\WindowsApp2.exe.config
+C:\Users\Gicca\Videos\COISAS PÉN DRIVE EDIARDP\FateClass\bin\Debug\WindowsApp2.exe
+C:\Users\Gicca\Videos\COISAS PÉN DRIVE EDIARDP\FateClass\bin\Debug\WindowsApp2.pdb
+C:\Users\Gicca\Videos\COISAS PÉN DRIVE EDIARDP\FateClass\bin\Debug\WindowsApp2.xml
+C:\Users\Gicca\Videos\COISAS PÉN DRIVE EDIARDP\FateClass\obj\Debug\WindowsApp2.vbproj.AssemblyReference.cache
+C:\Users\Gicca\Videos\COISAS PÉN DRIVE EDIARDP\FateClass\obj\Debug\Interop.ADODB.dll
+C:\Users\Gicca\Videos\COISAS PÉN DRIVE EDIARDP\FateClass\obj\Debug\WindowsApp2.vbproj.ResolveComReference.cache
+C:\Users\Gicca\Videos\COISAS PÉN DRIVE EDIARDP\FateClass\obj\Debug\WindowsApp2.frm_login.resources
+C:\Users\Gicca\Videos\COISAS PÉN DRIVE EDIARDP\FateClass\obj\Debug\WindowsApp2.frm_filtro_reserva.resources
+C:\Users\Gicca\Videos\COISAS PÉN DRIVE EDIARDP\FateClass\obj\Debug\WindowsApp2.frm_painel_adm.resources
+C:\Users\Gicca\Videos\COISAS PÉN DRIVE EDIARDP\FateClass\obj\Debug\WindowsApp2.frm_cadastro_professores.resources
+C:\Users\Gicca\Videos\COISAS PÉN DRIVE EDIARDP\FateClass\obj\Debug\WindowsApp2.frm_cadastro_salas.resources
+C:\Users\Gicca\Videos\COISAS PÉN DRIVE EDIARDP\FateClass\obj\Debug\WindowsApp2.Resources.resources
+C:\Users\Gicca\Videos\COISAS PÉN DRIVE EDIARDP\FateClass\obj\Debug\WindowsApp2.vbproj.GenerateResource.cache
+C:\Users\Gicca\Videos\COISAS PÉN DRIVE EDIARDP\FateClass\obj\Debug\WindowsApp2.vbproj.CoreCompileInputs.cache
+C:\Users\Gicca\Videos\COISAS PÉN DRIVE EDIARDP\FateClass\obj\Debug\WindowsApp2.exe
+C:\Users\Gicca\Videos\COISAS PÉN DRIVE EDIARDP\FateClass\obj\Debug\WindowsApp2.xml
+C:\Users\Gicca\Videos\COISAS PÉN DRIVE EDIARDP\FateClass\obj\Debug\WindowsApp2.pdb
+C:\FateClass_2\bin\Debug\WindowsApp2.exe.config
+C:\FateClass_2\bin\Debug\WindowsApp2.exe
+C:\FateClass_2\bin\Debug\WindowsApp2.pdb
+C:\FateClass_2\bin\Debug\WindowsApp2.xml
+C:\FateClass_2\obj\Debug\WindowsApp2.vbproj.AssemblyReference.cache
+C:\FateClass_2\obj\Debug\Interop.ADODB.dll
+C:\FateClass_2\obj\Debug\WindowsApp2.vbproj.ResolveComReference.cache
+C:\FateClass_2\obj\Debug\WindowsApp2.frm_login.resources
+C:\FateClass_2\obj\Debug\WindowsApp2.frm_filtro_reserva.resources
+C:\FateClass_2\obj\Debug\WindowsApp2.frm_painel_adm.resources
+C:\FateClass_2\obj\Debug\WindowsApp2.frm_cadastro_professores.resources
+C:\FateClass_2\obj\Debug\WindowsApp2.frm_cadastro_salas.resources
+C:\FateClass_2\obj\Debug\WindowsApp2.Resources.resources
+C:\FateClass_2\obj\Debug\WindowsApp2.vbproj.GenerateResource.cache
+C:\FateClass_2\obj\Debug\WindowsApp2.vbproj.CoreCompileInputs.cache
+C:\FateClass_2\obj\Debug\WindowsApp2.exe
+C:\FateClass_2\obj\Debug\WindowsApp2.xml
+C:\FateClass_2\obj\Debug\WindowsApp2.pdb
+C:\FateClass_2\obj\Debug\WindowsApp2.frm_redefinir.resources
+C:\FateClass_2\obj\Debug\WindowsApp2.frm_minhas_reservas.resources
+C:\!FateClass_2\bin\Debug\WindowsApp2.exe.config
+C:\!FateClass_2\bin\Debug\WindowsApp2.exe
+C:\!FateClass_2\bin\Debug\WindowsApp2.pdb
+C:\!FateClass_2\bin\Debug\WindowsApp2.xml
+C:\!FateClass_2\obj\Debug\WindowsApp2.vbproj.AssemblyReference.cache
+C:\!FateClass_2\obj\Debug\Interop.ADODB.dll
+C:\!FateClass_2\obj\Debug\WindowsApp2.vbproj.ResolveComReference.cache
+C:\!FateClass_2\obj\Debug\WindowsApp2.frm_login.resources
+C:\!FateClass_2\obj\Debug\WindowsApp2.frm_filtro_reserva.resources
+C:\!FateClass_2\obj\Debug\WindowsApp2.frm_minhas_reservas.resources
+C:\!FateClass_2\obj\Debug\WindowsApp2.frm_painel_adm.resources
+C:\!FateClass_2\obj\Debug\WindowsApp2.frm_cadastro_professores.resources
+C:\!FateClass_2\obj\Debug\WindowsApp2.frm_cadastro_salas.resources
+C:\!FateClass_2\obj\Debug\WindowsApp2.frm_redefinir.resources
+C:\!FateClass_2\obj\Debug\WindowsApp2.Resources.resources
+C:\!FateClass_2\obj\Debug\WindowsApp2.vbproj.GenerateResource.cache
+C:\!FateClass_2\obj\Debug\WindowsApp2.vbproj.CoreCompileInputs.cache
+C:\!FateClass_2\obj\Debug\WindowsApp2.exe
+C:\!FateClass_2\obj\Debug\WindowsApp2.xml
+C:\!FateClass_2\obj\Debug\WindowsApp2.pdb
+C:\FateClass_altDU_v1\bin\Debug\WindowsApp2.exe.config
+C:\FateClass_altDU_v1\bin\Debug\WindowsApp2.exe
+C:\FateClass_altDU_v1\bin\Debug\WindowsApp2.pdb
+C:\FateClass_altDU_v1\bin\Debug\WindowsApp2.xml
+C:\FateClass_altDU_v1\obj\Debug\WindowsApp2.vbproj.AssemblyReference.cache
+C:\FateClass_altDU_v1\obj\Debug\Interop.ADODB.dll
+C:\FateClass_altDU_v1\obj\Debug\WindowsApp2.vbproj.ResolveComReference.cache
+C:\FateClass_altDU_v1\obj\Debug\WindowsApp2.frm_login.resources
+C:\FateClass_altDU_v1\obj\Debug\WindowsApp2.frm_filtro_reserva.resources
+C:\FateClass_altDU_v1\obj\Debug\WindowsApp2.frm_minhas_reservas.resources
+C:\FateClass_altDU_v1\obj\Debug\WindowsApp2.frm_painel_adm.resources
+C:\FateClass_altDU_v1\obj\Debug\WindowsApp2.frm_cadastro_professores.resources
+C:\FateClass_altDU_v1\obj\Debug\WindowsApp2.frm_cadastro_salas.resources
+C:\FateClass_altDU_v1\obj\Debug\WindowsApp2.frm_redefinir.resources
+C:\FateClass_altDU_v1\obj\Debug\WindowsApp2.Resources.resources
+C:\FateClass_altDU_v1\obj\Debug\WindowsApp2.vbproj.GenerateResource.cache
+C:\FateClass_altDU_v1\obj\Debug\WindowsApp2.vbproj.CoreCompileInputs.cache
+C:\FateClass_altDU_v1\obj\Debug\WindowsApp2.exe
+C:\FateClass_altDU_v1\obj\Debug\WindowsApp2.xml
+C:\FateClass_altDU_v1\obj\Debug\WindowsApp2.pdb
+C:\FateClassV3\bin\Debug\WindowsApp2.exe.config
+C:\FateClassV3\bin\Debug\WindowsApp2.exe
+C:\FateClassV3\bin\Debug\WindowsApp2.pdb
+C:\FateClassV3\bin\Debug\WindowsApp2.xml
+C:\FateClassV3\obj\Debug\WindowsApp2.vbproj.AssemblyReference.cache
+C:\FateClassV3\obj\Debug\Interop.ADODB.dll
+C:\FateClassV3\obj\Debug\WindowsApp2.vbproj.ResolveComReference.cache
+C:\FateClassV3\obj\Debug\WindowsApp2.frm_login.resources
+C:\FateClassV3\obj\Debug\WindowsApp2.frm_filtro_reserva.resources
+C:\FateClassV3\obj\Debug\WindowsApp2.frm_minhas_reservas.resources
+C:\FateClassV3\obj\Debug\WindowsApp2.frm_painel_adm.resources
+C:\FateClassV3\obj\Debug\WindowsApp2.frm_cadastro_professores.resources
+C:\FateClassV3\obj\Debug\WindowsApp2.frm_cadastro_salas.resources
+C:\FateClassV3\obj\Debug\WindowsApp2.frm_redefinir.resources
+C:\FateClassV3\obj\Debug\WindowsApp2.Resources.resources
+C:\FateClassV3\obj\Debug\WindowsApp2.vbproj.GenerateResource.cache
+C:\FateClassV3\obj\Debug\WindowsApp2.vbproj.CoreCompileInputs.cache
+C:\FateClassV3\obj\Debug\WindowsApp2.exe
+C:\FateClassV3\obj\Debug\WindowsApp2.xml
+C:\FateClassV3\obj\Debug\WindowsApp2.pdb
+C:\FateClassV3\obj\Debug\WindowsApp2.frm_painel_usu.resources
+C:\FateClassV3_v8.0\bin\Debug\WindowsApp2.exe.config
+C:\FateClassV3_v8.0\bin\Debug\WindowsApp2.exe
+C:\FateClassV3_v8.0\bin\Debug\WindowsApp2.pdb
+C:\FateClassV3_v8.0\bin\Debug\WindowsApp2.xml
+C:\FateClassV3_v8.0\obj\Debug\WindowsApp2.vbproj.AssemblyReference.cache
+C:\FateClassV3_v8.0\obj\Debug\Interop.ADODB.dll
+C:\FateClassV3_v8.0\obj\Debug\WindowsApp2.vbproj.ResolveComReference.cache
+C:\FateClassV3_v8.0\obj\Debug\WindowsApp2.frm_login.resources
+C:\FateClassV3_v8.0\obj\Debug\WindowsApp2.frm_filtro_reserva.resources
+C:\FateClassV3_v8.0\obj\Debug\WindowsApp2.frm_minhas_reservas.resources
+C:\FateClassV3_v8.0\obj\Debug\WindowsApp2.frm_painel_adm.resources
+C:\FateClassV3_v8.0\obj\Debug\WindowsApp2.frm_cadastro_professores.resources
+C:\FateClassV3_v8.0\obj\Debug\WindowsApp2.frm_cadastro_salas.resources
+C:\FateClassV3_v8.0\obj\Debug\WindowsApp2.frm_painel_usu.resources
+C:\FateClassV3_v8.0\obj\Debug\WindowsApp2.frm_redefinir.resources
+C:\FateClassV3_v8.0\obj\Debug\WindowsApp2.Resources.resources
+C:\FateClassV3_v8.0\obj\Debug\WindowsApp2.vbproj.GenerateResource.cache
+C:\FateClassV3_v8.0\obj\Debug\WindowsApp2.vbproj.CoreCompileInputs.cache
+C:\FateClassV3_v8.0\obj\Debug\WindowsApp2.exe
+C:\FateClassV3_v8.0\obj\Debug\WindowsApp2.xml
+C:\FateClassV3_v8.0\obj\Debug\WindowsApp2.pdb
